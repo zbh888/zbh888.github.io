@@ -1,0 +1,23 @@
+title: Bohan Zhang
+author: Bohan Zhang
+subtitle: Personal Website
+
+footer_only_homepage: true
+footer_url: "https://github.com/rhl-bthr/parchment"
+footer_text: "Theme by rhl-bthr"
+
+profile-picture: assets/sitepic.png
+favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+ - name: "About"
+   link: "index"
+ - name: "Projects"
+   link: "project"
+ - name: "Resume"
+   link: "resume"
