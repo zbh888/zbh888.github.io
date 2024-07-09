@@ -5,6 +5,8 @@ title: Projects
 ---
 I keep a list of my completed projects here as a reference in case I forget (Peer-reviewed publications are not included). All papers I have authored or co-authored have their code publicly available.
 
+### [[2022] Academia and Industry Research Collaboration in NLP](https://arxiv.org/abs/2308.04524)
+This work investigated the effects of collaboration between academia and industry on NLP. We created a pipeline to extract affiliations and citations from NLP papers and divided them into three categories: academia, industry, and hybrid (collaborations between academia and industry). Our empirical analysis found that there is a trend towards an increase in industry and academia-industry collaboration publications and that these types of publications tend to have a higher impact compared to those produced solely within academia.
 
 ### [[2022] Reinforcement Learning to Solve TSP: A Survey](https://uwaterloo.ca/scholar/sites/ca.scholar/files/b327zhan/files/bohanzhang_rl_tsp.pdf)
 This paper surveys different heuristics using RL to solve travelling salesman problem. We discovered that pure deep learning based RL can only solve small-scale TSP. Also, we find combining traditional heuristic algorithms and RL is powerful.
