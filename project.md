@@ -48,6 +48,7 @@ I collect some interesting challenges based on my interests.
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz)
 * [Ethernaut](https://ethernaut.openzeppelin.com)
 * [Going the distance](https://jeiwan.net)
+* [Speed Run Ethereum](https://speedrunethereum.com)
 ### Mathematics
 * [Project Euler](https://projecteuler.net)
 
