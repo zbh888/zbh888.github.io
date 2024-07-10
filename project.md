@@ -40,3 +40,19 @@ Bezier Curve Board is a GUI for users to draw, delete, copy, cut, paste, save an
 ### [[2019] RAIInet](https://github.com/zbh888/SoftwareDesign/tree/main/RAIInet)
 RAIInet is a board game implemented in C++, which supports 2 to 4 people to play with it. Each player has different strength of chessman, and different abilities. 
 The graphic is supported using XWindows.
+
+## Interesting challenges
+I collect some interesting challenges based on my interests.
+### Blockchain
+* [Capture the Ether](https://capturetheether.com)
+* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz)
+* [Ethernaut](https://ethernaut.openzeppelin.com)
+* [Going the distance](https://jeiwan.net)
+### Mathematics
+* [Project Euler](https://projecteuler.net)
+
+### Cryptography
+* [The cryptopals crypto challenges](https://cryptopals.com)
+
+### Coding
+* [Advent of Code](https://adventofcode.com)
