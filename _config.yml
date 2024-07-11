@@ -6,8 +6,8 @@ footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr/parchment"
 footer_text: "Theme by rhl-bthr"
 
-profile-picture: assets/sitepic.png
-favicon_location: assets/favicon.ico
+profile-picture: /assets/sitepic.png
+favicon_location: /assets/favicon.ico
 
 permalink: /:year-:month-:day-:title/
 sass:
@@ -16,8 +16,8 @@ sass:
 
 navbar:
  - name: "About"
-   link: "index"
+   link: "/"
  - name: "Projects"
-   link: "project"
+   link: "/project"
  - name: "Resume"
-   link: "resume"
+   link: "/resume"
