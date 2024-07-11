@@ -1,5 +1,4 @@
 <head>
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     {% if page.title %}
         {% assign title = page.title | append: " - " | append: site.title %}
         {% assign desc = page.subtitle %}
@@ -7,6 +6,8 @@
         {% assign title = site.title %}
         {% assign desc = site.subtitle %}
     {% endif %}
+    {% assign sitedir = site.url | append: site.baseurl | append: "/" %}
+    {% assign favicon_location = sitedir | append: site.favicon_location %}
 
     <title>{{ title }}</title>
 
@@ -17,18 +18,18 @@
 
     <meta name="description" content="{{ desc }}">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
-    <link rel="icon" type="image/ico" href="{{ '/assets/favicon.ico' | relative_url }}">
-    <link rel="shortcut-icon" type="image/ico" href="{{ '/assets/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="{{ sitedir }}css/main.css">
+    <link rel="icon" type="image/ico" href="{{ favicon_location }}">
+    <link rel="shortcut-icon" type="image/ico" href="{{ favicon_location }}">
 
     <!-- For Facebook -->
     <meta property="og:title" content="{{ title }}" />
-    <meta property="og:image" itemprop="image" content="{{ '/assets/favicon.ico' | relative_url }}" />
+    <meta property="og:image" itemprop="image" content="{{ favicon_location }}" />
     <meta property="og:description" content="{{ desc }}" />
 
     <!-- For Twitter -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="{{ title }}" />
     <meta name="twitter:description" content="{{ desc }}" />
-    <meta name="twitter:image" content="{{ '/assets/favicon.ico' | relative_url }}" />
+    <meta name="twitter:image" content="{{ favicon_location }}" />
 </head>
