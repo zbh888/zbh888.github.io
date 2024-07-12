@@ -21,6 +21,9 @@ Over the years, I have found that I enjoy performing data analytics, forecasting
 * Security Engineer, _QuantStamp Inc._ (2022.5-2022.9) [Smart contract audit, Automatic vulnerability assessment]
 * Undergraduate Research Assistant, _University of Waterloo_ (2021.1-2021.10) [Blockchain, Threshold signature, Generative AI]
 
+### Contact
+Email: bohan.zhang@uwaterloo.ca
+
 <script src="/assets/js/connectMetamask.js"></script>
 <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js" type="application/javascript"></script>
 
