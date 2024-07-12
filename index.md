@@ -12,7 +12,7 @@ Over the years, I have found that I enjoy performing data analytics, forecasting
 
 ### Publications
 1. [[2024 IEEE ICC]](https://arxiv.org/abs/2403.13936) B Zhang, P Hu, A Azirani, M Salahuddin, D Barradas, N Limam, R Boutaba "Secure and Efficient Group Handover Protocol in 5G Non-Terrestrial Networks", _IEEE International Conference on Communications._
-2. [[2023 IEEE CNSM]](https://ieeexplore.ieee.org/abstract/document/10327880) B Zhang, P Zeinaty, N Limam, R Boutaba "Mitigating Signaling Storms in 5G with Blockchain-assisted 5GAKA", _IEEE International Conference on Network and Service Management._
+2. [[2023 IEEE/IFIP CNSM]](https://ieeexplore.ieee.org/abstract/document/10327880) B Zhang, P Zeinaty, N Limam, R Boutaba "Mitigating Signaling Storms in 5G with Blockchain-assisted 5GAKA", _IEEE International Conference on Network and Service Management._
 3. [[2022 EAI SecureComm]](https://eprint.iacr.org/2022/1066) P Momeni, S Gorbunov, B Zhang "FairBlock: Preventing Blockchain Front-running with Minimal Overheads", _EAI International Conference on Security and Privacy in Communication Systems._
 
 ### Experiences
