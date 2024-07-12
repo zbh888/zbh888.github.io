@@ -4,7 +4,6 @@
     <list default="true" id="1848c16c-a183-4f2f-ac1d-71f5165e068d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/connectMetamask.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/connectMetamask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <workItem from="1720378181405" duration="4197000" />
       <workItem from="1720384267273" duration="33608000" />
       <workItem from="1720638478866" duration="3512000" />
-      <workItem from="1720745797711" duration="130000" />
+      <workItem from="1720745797711" duration="229000" />
     </task>
     <servers />
   </component>

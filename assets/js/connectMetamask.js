@@ -24,9 +24,9 @@ async function connectMetaMask() {
       // 隐藏连接按钮并显示用户地址或ENS名称
       connectButton.style.display = 'none';
       if (ensName) {
-        userAddressElement.innerText = `Welcome, ${ensName}(${userAddress}), This is bohanz.eth`;
+        userAddressElement.innerText = `Welcome, ${ensName}(${userAddress}), my ens is bohanz.eth`;
       } else {
-        userAddressElement.innerText = `Welcome: ${userAddress}, This is bohanz.eth`;
+        userAddressElement.innerText = `Welcome: ${userAddress}, my ens is bohanz.eth`;
       }
       userAddressElement.style.display = 'block';
       console.log('Connection successful'); // 打印连接成功
