@@ -52,7 +52,7 @@ I collect some interesting challenges based on my interests.
 * [Speed Run Ethereum](https://speedrunethereum.com)
   
 ### Mathematics
-* [Project Euler](https://projecteuler.net)
+* [Project Euler](https://projecteuler.net)<small>_(Euler, who is my 13th generation supervisor)_</small>
 
 ### Cryptography
 * [The cryptopals crypto challenges](https://cryptopals.com)
