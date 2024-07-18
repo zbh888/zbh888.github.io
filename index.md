@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 ![Profile Picture]({{site.baseurl}}/{{site.profile-picture}}){: .profile-picture}
-Hello, I am a computer science researcher, who is currently pursuing a Master of Mathematics degree at the University of Waterloo. My thesis focuses on mitigating signaling storms in 5G cellular networks. Previously, I obtained a Bachelor of Computer Science from the same institution. 
+Hello, I am a computer science researcher currently pursuing a Master of Mathematics degree at the Cheriton School of Computer Science, University of Waterloo. My thesis focuses on mitigating signaling storms in 5G cellular networks. Previously, I obtained a Bachelor of Computer Science from the same institution. 
 
 Throughout my studies, I have explored advanced fields such as artificial intelligence, blockchain, 5G cellular networks, and space networks.
 I have realized that many modern technological advancements arise from solving important problems with simple and effective ideas. Thus, this is the first principle that I follow while conducting my research. Unfortunately, the problems I solve are not significant enough to be game changers. Perhaps this is why we often say that finding a good problem to solve is 50% of success. Another research principle I adhere to is practicality. I believe an idea in computer science is only useful when it shows potential to address real-world problems. In my related research fields, this mainly involves scalability and use case scenarios.
