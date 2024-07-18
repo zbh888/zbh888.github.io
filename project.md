@@ -15,7 +15,7 @@ The idea is similar as using RL as decision assistant, which helps to get a bett
 ### [[2021] Threshold Signature Ecosystem](https://github.com/zbh888/FROSTsignature)
 Built and tested a threshold signature ecosystem [(Flexible Round-Optimized Schnorr Threshold Signatures)](https://eprint.iacr.org/2020/852.pdf) in Golang. Manually reviewed side-channel attacks.
 
-### [[2021] CamoGAM](https://github.com/jorchard/camouflage)
+### [[2021] CamoGAN](https://github.com/jorchard/camouflage)
 CamoGAN project combines GAN (CNN layers) and statistic method to simulate better the evolution of
 predators and prey (moth), aiming to generate moth camouflage and provide potential insights into Biology. The generated
 camouflage image is hard to find, which is very deceptive to the human visualization.
