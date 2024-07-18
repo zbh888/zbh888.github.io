@@ -28,7 +28,7 @@ Over the years, I have found that I enjoy performing data analytics, forecasting
 
 * [[2022 72,000 CAD]](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/graduate-research-studentship) Graduate Research Studentship
 * [[2022 12,500 CAD]](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-masters-award-excellence-imae) International Master’s Award of Excellence
-* [[2021 Dean's Honours List]](https://uwaterloo.ca/math/deans-honours-list)
+* [[2021]](https://uwaterloo.ca/math/deans-honours-list) Dean's Honours List
 * [[2018 10,000 CAD]](https://uwaterloo.ca/undergraduate-entrance-awards/awards/university-waterloo-international-student-entrance) University of Waterloo International Student Entrance Scholarship
 * [[2018 2,000 CAD]](https://uwaterloo.ca/future-students/financing/scholarships/presidents-scholarships) President's Scholarships
 
