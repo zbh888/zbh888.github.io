@@ -24,6 +24,8 @@ Over the years, I have found that I enjoy performing data analytics, forecasting
 * Security Engineer, _QuantStamp Inc._ (2022.5-2022.9) [Smart contract audit, Automatic vulnerability assessment]
 * Undergraduate Research Assistant, _University of Waterloo_ (2021.1-2021.10) [Blockchain, Threshold signature, Generative AI]
 
+* Reviewer [(The Computer Journal, 2024)]
+
 ### Awards
 
 * [[2022 72,000 CAD]](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/graduate-research-studentship) Graduate Research Studentship
