@@ -11,7 +11,7 @@ I have realized that many modern technological advancements arise from solving i
 Over the years, I have found that I enjoy performing data analytics, forecasting, and reasoning. However, I am even more passionate about designing scalable communication systems and communication protocols. The trade-off among security, efficiency, and reliability is very interesting.
 
 ### Publications
-1. [2024 Under Review, thesis] B Zhang "Mitigating Signalling Storms in 5G", University of Waterloo, pp. 1-112.
+1. [2024 master thesis](https://hdl.handle.net/10012/20808) B Zhang "Mitigating Signalling Storms in 5G", University of Waterloo, pp. 1-112.
 2. [2024 Under Review, full paper]  B Zhang, M Salahuddin, P Hu, Y Wang, N Limam, B Sun, D Barradas, R Boutaba "Signalling Load-aware Conditional Handover in
 5G Non-Terrestrial Networks", pp. 1-9
 3. [[2024 IEEE ICC, full paper]](https://arxiv.org/abs/2403.13936) B Zhang, P Hu, A Azirani, M Salahuddin, D Barradas, N Limam, R Boutaba "Secure and Efficient Group Handover Protocol in 5G Non-Terrestrial Networks", _IEEE International Conference on Communications._ pp. 1-6.
