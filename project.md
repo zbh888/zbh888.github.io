@@ -12,6 +12,10 @@ This work investigated the effects of collaboration between academia and industr
 This paper surveys different heuristics using RL to solve travelling salesman problem. We discovered that pure deep learning based RL can only solve small-scale TSP. Also, we find combining traditional heuristic algorithms and RL is powerful.
 The idea is similar as using RL as decision assistant, which helps to get a better solution in a reasonable time for large-scale TSP.
 
+### [[2022] Global Ranking of Countries by Contributions to Security and Cryptography Research](https://github.com/zbh888/RankCountries)
+This work ranked 68 countries based on their contribution to Computer Security and Cryptography research. 23k papers from three tiers were collected for analysis. We defined a mapping between institutions and their countries. This mapping helps us to allocate credits for different countries from each research article. The credit amount is based on the paper's venue tier. We used python gooey and geopandas package to create a cool color map user interface. The top 10 countries are: (1) United States of America (2) Germany (3) China (4) United Kingdom (5) Switzerland (6) France (7) Israel (8) Australia (9) Canada (10) Singapore 
+
+
 ### [[2021] Threshold Signature Ecosystem](https://github.com/zbh888/FROSTsignature)
 Built and tested a threshold signature ecosystem [(Flexible Round-Optimized Schnorr Threshold Signatures)](https://eprint.iacr.org/2020/852.pdf) in Golang. Manually reviewed side-channel attacks.
 
