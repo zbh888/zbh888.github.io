@@ -12,22 +12,20 @@ Over the years, I have found that I enjoy performing data analytics, forecasting
 
 ### Publications
 1. [[2024 master's thesis]](https://hdl.handle.net/10012/20808) B Zhang "Mitigating Signalling Storms in 5G", University of Waterloo, pp. 1-112.
-2. [2024 IEEE/IFIP CNSM, full paper]  B Zhang, M Salahuddin, P Hu, Y Wang, N Limam, B Sun, D Barradas, R Boutaba "Signalling Load-aware Conditional Handover in
-5G Non-Terrestrial Networks", pp. 1-9
+2. [2024 IEEE/IFIP CNSM, full paper]  B Zhang, M Salahuddin, P Hu, Y Wang, N Limam, B Sun, D Barradas, R Boutaba "Signalling Load-aware Conditional Handover in 5G Non-Terrestrial Networks", _IEEE/IFIP International Conference on Network and Service Management, pp. 1-9
 3. [[2024 IEEE ICC, full paper]](https://ieeexplore.ieee.org/document/10622669) B Zhang, P Hu, A Azirani, M Salahuddin, D Barradas, N Limam, R Boutaba "Secure and Efficient Group Handover Protocol in 5G Non-Terrestrial Networks", _IEEE International Conference on Communications._ pp. 1-6.
-4. [[2023 IEEE/IFIP CNSM, full paper]](https://ieeexplore.ieee.org/abstract/document/10327880) B Zhang, P Zeinaty, N Limam, R Boutaba "Mitigating Signaling Storms in 5G with Blockchain-assisted 5GAKA", _IEEE International Conference on Network and Service Management,_ pp. 1-9.
+4. [[2023 IEEE/IFIP CNSM, full paper]](https://ieeexplore.ieee.org/abstract/document/10327880) B Zhang, P Zeinaty, N Limam, R Boutaba "Mitigating Signaling Storms in 5G with Blockchain-assisted 5GAKA", _IEEE/IFIP International Conference on Network and Service Management,_ pp. 1-9.
 5. [[2022 EAI SecureComm, full paper]](https://eprint.iacr.org/2022/1066) P Momeni, S Gorbunov, B Zhang "FairBlock: Preventing Blockchain Front-running with Minimal Overheads", _EAI International Conference on Security and Privacy in Communication Systems,_ pp. 1-22.
 
 ### Experiences
+* Research Associate, _University of Waterloo_ (2024.9 - present) [Blockchain]
 * Graduate Research Assistant, _University of Waterloo_ (2022.9-2024.9) [5G, 5G NTN, Security]
 * Teaching Assistant/Instructional Apprentice, _University of Waterloo_ (2022.9-2024.9)
 * Security Engineer, _QuantStamp Inc._ (2022.5-2022.9) [Smart contract audit, Automatic vulnerability assessment]
 * Undergraduate Research Assistant, _University of Waterloo_ (2021.1-2021.10) [Blockchain, Threshold signature, Generative AI]
-  
-* Reviewer [(BCS The Computer Journal, 2024)]
+* Invited Reviewer [(BCS The Computer Journal, 2024)]
 
 ### Awards
-
 * [[2022 72,000 CAD]](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/graduate-research-studentship) Graduate Research Studentship
 * [[2022 12,500 CAD]](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/international-masters-award-excellence-imae) International Master’s Award of Excellence
 * [[2021]](https://uwaterloo.ca/math/deans-honours-list) Dean's Honours List
