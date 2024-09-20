@@ -8,7 +8,7 @@ Hello, I work as a research associate at the [David R. Cheriton School of Comput
 Throughout my studies, I have explored advanced fields such as artificial intelligence, blockchain, 5G cellular networks, and space networks.
 I have realized that many modern technological advancements arise from solving important problems with simple and effective ideas. Thus, this is the first principle that I follow while conducting my research. Unfortunately, the problems I solve are not significant enough to be game changers. Perhaps this is why we often say that finding a good problem to solve is 50% of success. Another research principle I adhere to is practicality. I believe an idea in computer science is only useful when it shows potential to address real-world problems. In my related research fields, this mainly involves scalability and use case scenarios.
 
-Over the years, I have found that I enjoy performing data analytics, forecasting, and reasoning. However, I am even more passionate about designing scalable communication systems and communication protocols. The trade-off among security, efficiency, and reliability is very interesting.
+Over the years, I have found that I enjoy performing data analytics, forecasting, and reasoning to discover phenomena and trends in the real-world. However, I am even more passionate about designing scalable communication systems and protocols. The trade-off among security, efficiency, and reliability is fascinating.
 
 ### Publications
 1. [[2024 master's thesis]](https://hdl.handle.net/10012/20808) B Zhang "Mitigating Signalling Storms in 5G", University of Waterloo, pp. 1-112.
