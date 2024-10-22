@@ -47,6 +47,9 @@ Email: bohan.zhang@uwaterloo.ca
   <a id="githubButton" class="logobutton" href="https://github.com/zbh888" target="_blank">
     <img src="/assets/github.png" alt="GitHub" class="logobutton-logo">
   </a>
+  <a id="scholarButton" class="logobutton" href="https://scholar.google.com/citations?user=rqRcfVsAAAAJ&hl=zh-CN" target="_blank">
+    <img src="/assets/github.png" alt="Google Scholar" class="logobutton-logo">
+  </a>
   <a id="metamaskButton" class="logobutton" href="javascript:void(0)" onclick="connectMetaMask()">
     <img src="/assets/metamask.png" alt="MetaMask" class="logobutton-logo">
   </a>
