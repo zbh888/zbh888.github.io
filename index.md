@@ -18,7 +18,7 @@ Over the years, I have found that I enjoy performing data analytics, forecasting
 5. [[2022 EAI SecureComm, full paper]](https://eprint.iacr.org/2022/1066) P Momeni, S Gorbunov, B Zhang "FairBlock: Preventing Blockchain Front-running with Minimal Overheads", _18th EAI International Conference on Security and Privacy in Communication Systems_, pp. 1-22.
 
 ### Experiences
-* Research Associate, University of Waterloo, 2024.9-Present, (Blockchain)
+* Research Associate, University of Waterloo, 2024.9-Present, (Blockchain, DeFi)
 * Graduate Research Assistant, University of Waterloo, 2022.9-2024.9, (5G, 5G NTN, Security)
 * Teaching Assistant/Instructional Apprentice, University of Waterloo, 2022.9-2024.9, (Grading, Tutoring, Tutorial session)
 * Security Engineer, QuantStamp Inc., 2022.5-2022.9, (Smart contract audit, Automatic vulnerability assessment)
