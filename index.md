@@ -23,7 +23,7 @@ Over the years, I have found that I enjoy performing data analytics, forecasting
 * Teaching Assistant/Instructional Apprentice, University of Waterloo, 2022.9-2024.9, (Grading, Tutoring, Tutorial session)
 * Security Engineer, QuantStamp Inc., 2022.5-2022.9, (Smart contract audit, Automatic vulnerability assessment)
 * Undergraduate Research Assistant, University of Waterloo, 2021.1-2021.10, (Blockchain, Threshold signature, Generative adversarial networks)
-* Invited Reviewer, (BCS The Computer Journal; IEEE/KICS The Journal of Communications and Networks)
+* Invited Reviewer, (Oxford University Press The Computer Journal; IEEE The Journal of Communications and Networks)
 
 ### Awards
 * [[2022 72,000 CAD]](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/awards/graduate-research-studentship) Graduate Research Studentship
