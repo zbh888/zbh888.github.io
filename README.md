@@ -1,4 +1,4 @@
-# Parchment 
+# Parchment  
 A clean, single column blog template built for jekyll
 
 ## Building Locally
